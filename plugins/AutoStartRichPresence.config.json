@@ -1,0 +1,19 @@
+{
+    "settings": {
+        "clientID": "1012465934088405062",
+        "disableWhenActivity": false,
+        "enableStartTime": true,
+        "name": "",
+        "details": "",
+        "state": "",
+        "button1Label": "",
+        "button1URL": "",
+        "button2Label": "",
+        "button2URL": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "listeningTo": false
+    }
+}

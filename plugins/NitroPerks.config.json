@@ -1,0 +1,17 @@
+{
+    "currentVersionInfo": {
+        "version": "3.1.6",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "emojiSize": "48",
+        "screenSharing": true,
+        "emojiBypass": true,
+        "ghostMode": true,
+        "freeStickersCompat": true,
+        "clientsidePfp": false,
+        "emojiBypassForValidEmoji": true,
+        "PNGemote": true,
+        "pfpUrl": "https://i.imgur.com/N6X1vzT.gif"
+    }
+}
